@@ -1,0 +1,4 @@
+Nama	: Alfari Sidnan Ghilmana
+Kelas	: A
+NPM	: 140810180011
+Link	: https://github.com/alfarisg34/strukdat-01
